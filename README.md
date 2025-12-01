@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/honzhayehor) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31974813) [![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/<honzhayehor>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/honzhayehor) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:honzhayehor@gmail.com)
+ [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31974813) [![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/<honzhayehor>)
 
 
 # 💻 Tech Stack:
