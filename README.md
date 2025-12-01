@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! My name is Honzha Yehor. I am a beginner Java developer.
+Hello!<br>
+My name is Honzha Yehor. I am a beginner Java developer.<br>
 🔭 I'm currently working on self-development and pet projects<br>👯 I'm looking for opportunities to collaborate on interesting projects that can help others<br>🤝 I'm looking for help learning the latest technologies and practices<br>🌱 I'm currently learning Java<br>⚡ Fun fact: I love Maine Coons, music and chess
 
 
