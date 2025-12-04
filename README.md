@@ -1,5 +1,7 @@
 # Hey, I'm Yehor 👋
-🔭 I'm currently working on self-development and pet projects<br>👯 I'm looking for opportunities to collaborate on interesting projects that can help others<br>🤝 I'm looking for help learning the latest technologies and practices<br>🌱 I'm currently learning Java<br>⚡ Fun fact: I love Maine Coons, music and chess
+I am learning Java and studying to become a backend software engineer.<br>
+🔎 Exploring what I can build, what I can improve, and who I can learn from.<br>🌍 Open to collaborations that chase impact rather than hype.<br>📡 Constantly upgrading my skills — from modern Java practices to architectural thinking.<br>🌱 Currently writing small tools and pet projects that help me grow as a developer.<br>🎵 Fun extras: I like Maine Coons, music and chess.
+
 
 
 # 🌐 Socials:
